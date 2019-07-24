@@ -1,0 +1,18 @@
+{
+  "name": "msspeller",
+  "version": "0.0.1",
+  "description": "A node package which generates words mispelled in common ways.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "misspell",
+    "spell",
+    "grammar",
+    "utility",
+    "mistype"
+  ],
+  "author": "Luc Highwalker",
+  "license": "ISC"
+}
